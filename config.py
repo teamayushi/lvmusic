@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/teamayushi/Ayesha-Music",
+    "https://github.com/ifgovtjoftibcdjpvd8nfiokbfobffob0vrb8bd/KhushiMusic-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -81,10 +81,10 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://files.catbox.moe/tubvt2.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/eikr5c.mp4"
+    "PING_IMG_URL", "https://files.catbox.moe/7x7ynt.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eikr5c.mp4"
+STATS_IMG_URL = "https://files.catbox.moe/7x7ynt.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
